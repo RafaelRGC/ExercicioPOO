@@ -1,0 +1,14 @@
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\bin\Debug\net8.0\POO_Robinson.exe
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\bin\Debug\net8.0\POO_Robinson.deps.json
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\bin\Debug\net8.0\POO_Robinson.runtimeconfig.json
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\bin\Debug\net8.0\POO_Robinson.dll
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\bin\Debug\net8.0\POO_Robinson.pdb
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\POO_Robinson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\POO_Robinson.AssemblyInfoInputs.cache
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\POO_Robinson.AssemblyInfo.cs
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\POO_Robinson.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\POO_Robinson.dll
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\refint\POO_Robinson.dll
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\POO_Robinson.pdb
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\POO_Robinson.genruntimeconfig.cache
+C:\Users\RAFAEL\Desktop\Robinson\POO_Robinson\obj\Debug\net8.0\ref\POO_Robinson.dll
